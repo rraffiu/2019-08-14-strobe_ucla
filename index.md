@@ -636,7 +636,9 @@ please preview your site before committing, and make sure to run
   </p>
   {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
+
 {% comment %}
+
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
@@ -824,8 +826,8 @@ please preview your site before committing, and make sure to run
       </article>
     </div>
   </div>
-  {% endcomment %}
-</div> {% endcomment %}
+</div> 
+{% endcomment %}
 {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
 {% comment %}
