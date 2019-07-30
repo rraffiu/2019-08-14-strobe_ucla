@@ -825,7 +825,8 @@ please preview your site before committing, and make sure to run
     </div>
   </div>
   {% endcomment %}
-</div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+</div> {% endcomment %}
+{% comment %} End of 'OpenRefine' section. {% endcomment %}
 
 {% comment %}
 <div id="vm">
