@@ -124,7 +124,7 @@ This block displays the date and links to Google Calendar.
 </p>
 {% endif %}
 <p id="registration">
-  <strong>Registration:</strong> <a href ="https://docs.google.com/forms/d/e/1FAIpQLScQOYXuQQDy0Fw2pPlfaiLk_yQnHyFaY8sbQnXAFNyWK6Dvmw/viewform"> Click here to register </a>
+  <strong>Registration:</strong> <a href ="https://docs.google.com/forms/d/e/1FAIpQLScQOYXuQQDy0Fw2pPlfaiLk_yQnHyFaY8sbQnXAFNyWK6Dvmw/viewform"> Click here to register. </a>
  </p>
 
 {% comment %}
